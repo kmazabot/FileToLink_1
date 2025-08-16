@@ -6,4 +6,5 @@ motor
 psutil
 python-dotenv
 tgcrypto
+pyrogram
 uvloop
